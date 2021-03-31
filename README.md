@@ -1,1 +1,1 @@
-# main-adaptiv
+# adaptiv
